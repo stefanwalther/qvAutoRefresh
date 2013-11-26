@@ -1,7 +1,7 @@
 About
 ===
 
-"AutoRefresh" is a QlikView Document Extension which enables you to force a UI-refresh of a QlikView application every given seconds.
+"AutoRefresh" is a document extension which forces a QlikView document (and all its visible objects) to be refreshed every X seconds. The interval is 60 seconds by default but can be set by creating and setting a  QlikView document variable with the name `vAutoRefresh_EveryXSeconds`.
 
 Installation
 ---

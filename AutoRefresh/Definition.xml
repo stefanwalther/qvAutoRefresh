@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="AutoRefresh" Path="AutoRefresh" Description="A document extension to refresh your objects every X seconds. Define the interval in seconds using the document variable vAutoRefresh_EveryXSeconds" Type="document">
+  <RefValue Initial="" Expression="=vAutoRefresh_EveryXSeconds" />
+</ExtensionObject>

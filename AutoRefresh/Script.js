@@ -30,7 +30,7 @@ Qva.AddDocumentExtension('AutoRefresh', function () {
 
     var _this = this;
     _this.ExtSettings = {};
-    _this.ExtSettings.RefreshInterval = 10;  //Default value in seconds
+    _this.ExtSettings.RefreshInterval = 60;  //Default value in seconds
     //ConsoleDebug(_this);
 
 
